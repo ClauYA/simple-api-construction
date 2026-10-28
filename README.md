@@ -1,5 +1,5 @@
 # Philly Trade Activity Finder
-![homepage] ('/img/homepage.png')
+![homepage](img/homepage.png)
 
 A lightweight front-end application that helps Philadelphia trade professionals explore recent public permit activity by ZIP code and work category.
 
