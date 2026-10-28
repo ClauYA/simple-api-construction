@@ -1,4 +1,5 @@
 # Philly Trade Activity Finder
+![homepage] ('/img/homepage.png')
 
 A lightweight front-end application that helps Philadelphia trade professionals explore recent public permit activity by ZIP code and work category.
 
@@ -62,3 +63,6 @@ I completed the challenge: 5
 I feel good about my code: 4
 I feel that there is more to do for this project and I would like to go back and add the improvements.
 
+**live demo**
+
+https://clauya.github.io/simple-api-construction/
